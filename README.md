@@ -3,15 +3,16 @@
   <img src="https://github.com/Raj3028/Raj3028/blob/main/LOGO.png?raw=true" width="300" >
 </p>
 
+## 💬 LiveChat Project Built with ReactJS + ExpressJS + Nodejs + MongoDB (MERN)💻
 
 ## Available Scripts
 
--Install Dependencies First
+- Install Dependencies First
 
 ### `npm install`
 
 
--In the project directory, you can run:
+- In the project directory, you can run:
 
 ### `npm start`
 
