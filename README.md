@@ -6,12 +6,12 @@
 
 ## Available Scripts
 
-Install Dependencies First
+-Install Dependencies First
 
 ### `npm install`
 
 
-In the project directory, you can run:
+-In the project directory, you can run:
 
 ### `npm start`
 
