@@ -10,14 +10,14 @@ Install Dependencies First
 
 ### `npm install`
 
-```
-# Run FrontEnd Port :3000
-
-```
-
 
 In the project directory, you can run:
 
 ### `npm start`
+
+```
+# Run FrontEnd Port :3000
+
+```
 
 
